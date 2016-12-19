@@ -1,12 +1,7 @@
 TID                 PID                Complaint    treatment
 
 001                  01               fever       decold tablet
-1                   1                pain          painkiller
+103                   1                pain          painkiller
 100                   3               fever             citamol
-100                   3               fever             citamol
-2                   3             hachxyu               bless
-100                   3                pain          painkiller
-2001                  90               fever             citamol
-1001                   1                pain             citamol
-1                   1                   1                   1
-22                   1            hachxyuu               bless
+1001                  22             pain             citamol
+22                   13            hachxyuu               bless
